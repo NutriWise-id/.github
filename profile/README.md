@@ -1,7 +1,11 @@
 # Group ID : C242-PR609 
 
 ## NutriWise
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Stunting, a significant health issue affecting vulnerable communities worldwide, has long-term impacts on children's growth, cognitive development, and overall well-being. Many communities lack adequate access to information about the importance of a healthy lifestyle and the risks associated with stunting, resulting in preventable health complications and diminished opportunities for children to thrive.
+
+Our team identified this gap and recognized the need for an accessible educational tool that empowers these communities to make informed health choices. Through our project, "Preventing Stunting for a Better Future," we aim to bridge this information gap by creating an application focused on stunting prevention, promoting awareness of healthy practices, and fostering a proactive approach to child health.
+
+This application will serve as an educational resource, equipping parents and caregivers with essential knowledge on the importance of nutrition and wellness in early childhood to support healthier, more resilient futures for their children.
 
 ## Our Team
 | Student ID    | Name                        | Learning Path       | University                          |
